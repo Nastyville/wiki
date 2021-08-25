@@ -1,4 +1,4 @@
-baseurl = "https://vibrant-wescoff-43708d.netlify.app/"
+baseurl = "https://nastyvillewiki.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
