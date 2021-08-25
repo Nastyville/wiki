@@ -1,4 +1,4 @@
-baseurl = "https://objective-brown-33930b.netlify.app/"
+baseurl = "https://wiki.nastyville.eu/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
